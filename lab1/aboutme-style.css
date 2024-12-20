@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(113, 187, 145);
+    font-family: sans-serif, "Calibri";
+    color: white;
+    font-size: 16px;
+    font-weight: normal;
+}
+a {
+	color: rgb(32, 13, 87);
+}
+h1 {
+	color: rgb(32, 13, 87);
+}
+strong {
+	color: rgb(32, 13, 87);
+}
